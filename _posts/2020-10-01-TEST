@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      TEST
+subtitle:   一些基础功能测试
+date:       2016-10-10
+author:     chuanflow
+header-img: img/post-bg-test.jpg
+catalog: true
+tags:
+    - TEST
+---
+
+# TEST Title
+测试功能完整性
+
+# TEST code
+```shell
+cd dir
+ls dir
+pwd
+```
+
+# TEST emojis
+bug :bug: -> sleep :sleeping: -> zzz :zzz:
