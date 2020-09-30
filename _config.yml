@@ -1,12 +1,13 @@
 # Site settings
-title: 川Flow
-SEOTitle: 川Flow | ChuanFlow
+title: Chuan's Flow
+SEOTitle: 川流 | Chuan's Flow
 header-img: img/home-bg-o.jpg
 email: ask@chuanflow.me
-description: "川的想法总是随处漂流，偶尔在这儿驻留"
-keyword: "川, 川流, 川flow, chuan, chuanflow, 川流的博客, 川Flow的博客, ChuanFlow Blog, 博客, 个人网站, 互联网, Web, 系统架构, 设计"
+description: "川的想法总是随处漂流，偶尔会在这儿驻留"
+keyword: "川, 川流, flow, chuan, chuan‘s flow, 川的流, 博客, 个人网站, 互联网, Web, 系统架构, 设计"
 url: "https://chuanflow.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/chuanflow/chuanflow.github.io.git" # you code repository
 
 # Publish posts or collection documents with a future date.
 future: true
